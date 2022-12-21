@@ -1,1 +1,0 @@
-Kodluyoruz.org alıştırma ödevi 
