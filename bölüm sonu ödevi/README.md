@@ -1,1 +1,1 @@
-#Kodluyoruz.org alıştırma ödevi 
+Kodluyoruz.org alıştırma ödevi 
